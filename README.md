@@ -2,8 +2,8 @@
  ---
 - 👀 I’m interested in [Python](https://www.python.org/).
 - 🌱 I’m currently learning [Lua](https://www.lua.org/) & [TypeScript](https://www.typescriptlang.org/).
-- 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots.
-- 📫 Reach me on Discord: TecnoBlast303#2500
+- 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots and [C#](https://dotnet.microsoft.com/en-us/languages/csharp) projects.
+- 📫 Reach me on Discord: tecnoblast303
 
 <img src="https://discord.c99.nl/widget/theme-2/671016746831839234.png"/>
 
