@@ -1,7 +1,7 @@
 ### Hi there, I'm TecnoBlast 👋
  ---
 - 👀 I’m interested in [Python](https://www.python.org/) & [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
-- 🌱 I’m currently learning [[TypeScript](https://www.typescriptlang.org/).
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/).
 - 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots and [C#](https://dotnet.microsoft.com/en-us/languages/csharp) projects.
 - 📫 Reach me on Discord: tecnoblast303
 
@@ -9,10 +9,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://discordpy.readthedocs.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/861232506833731595/890649422957006908/discordpy.png" alt="discord.py" width="40" height="40"></a>
       <a href="https://cplusplus.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
+     <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://discordpy.readthedocs.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/861232506833731595/890649422957006908/discordpy.png" alt="discord.py" width="40" height="40"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
     <a href="https://www.lua.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"></a>
     <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"></a>
