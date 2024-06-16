@@ -14,7 +14,7 @@
      <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://discordpy.readthedocs.io/" target="_blank"><img src="https://cdn.discordapp.com/attachments/861232506833731595/890649422957006908/discordpy.png" alt="discord.py" width="40" height="40"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
-    <a href="https://www.lua.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"></a>
+    <a href="https://www.lua.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"></a>
     <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
