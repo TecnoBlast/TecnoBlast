@@ -3,7 +3,6 @@
 - 👀 I’m interested in [Python](https://www.python.org/) & [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/).
 - 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots and [C#](https://dotnet.microsoft.com/en-us/languages/csharp) projects.
-- 📫 Reach me on Discord: tecnoblast303
 
 <img src="https://discord.c99.nl/widget/theme-2/671016746831839234.png"/>
 
@@ -23,4 +22,5 @@
 <!---
 TecnoBlast/TecnoBlast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 📫 Reach me on Discord: tecnoblast303
 --->
