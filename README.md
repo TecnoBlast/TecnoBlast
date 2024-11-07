@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/).
 - 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots and [C#](https://dotnet.microsoft.com/en-us/languages/csharp) projects.
 
-<img src="https://discord.c99.nl/widget/theme-2/671016746831839234.png"/>
+<img src="https://discord.c99.nl/widget/theme-2/1280562761608335382.png"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
